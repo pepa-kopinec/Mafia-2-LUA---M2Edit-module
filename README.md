@@ -36,5 +36,5 @@ M2Edit.ShowQuest("0051010032","QUEST_SHOP")
 M2Edit.ShowQuestEnt("0051010032", "Joe", "QUEST_SHOP")
 
 --this function will show objective "Destroy the store" on position 30, 50
-M2EditModule.ShowQuestPos("0051010032",30,50,"QUEST_SHOP")
+M2Edit.ShowQuestPos("0051010032",30,50,"QUEST_SHOP")
 ```
