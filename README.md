@@ -2,7 +2,7 @@
 Module for making scripting in Mafia 2 easier.
 
 # About
-This module was developed during making DLC Henry for Mafia 2, and how time was going it was used in others projects like Mafia 2 Lost Heaven DLC and Motorfield. Now I decided to publish it and make some sort of wiki for it so people can easyli make missions.
+This module was developed during making DLC Henry for Mafia 2, and how time was going it was used in others projects like Mafia 2 Lost Heaven DLC and Motorfield. Now I decided to publish it and make some sort of wiki for it so people can easily make missions.
 
 # Installation
 Place the file M2Edit.lua to anywhere you want in directory Mafia II\pc. (for better compatibility it's better to place it to DLC folder if you making one, for example Mafia II\pc\dlcs\cnt_Lost_Heaven_Map\DATA\plugins)
